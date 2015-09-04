@@ -1,0 +1,36 @@
+
+.mytitle {
+    text-align:center;
+    margin:50px;
+}
+
+.word {
+    height:526px;
+}
+
+.letter-out {
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%); 
+}
+
+.letter-in {
+    font-size:80;
+    width:80px;
+    display: inline-block;
+    text-align: center;
+}
+
+.buttons {
+    text-align:center;
+}
+
+.button-false {
+    margin:5px;
+    color:#000;
+}
+
+.button-true {
+    margin:5px;
+    color:#AAA;
+}
